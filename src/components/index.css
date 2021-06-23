@@ -1,0 +1,11 @@
+.container{
+    background: url('https://www.freepik.com/free-vector/round-podium-stage-spotlights-rays_6428660.htm#page=1&query=show&position=10');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
